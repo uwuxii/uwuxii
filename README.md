@@ -36,14 +36,14 @@
 
 ## 🌸 About Me
 
-I'm an Industrial Engineering student, passionate about **Data Analytics and Artificial Intelligence**, with a beginner background in **Python, Go, and SQL**. I'm learning **Machine Learning** and soon **Deep Learning**. My goal is to increase industry efficiency through AI-powered automation. 🤖
+I'm an Industrial Engineering student, passionate about Data Science and Artificial Intelligence. I have experience in Machine Learning with a focus on Supervised Learning. My goal is to increase industry efficiency through AI-powered automation. 🤖
 
 ### 🌟 Passions
 
 - **Machine Learning**
-- **Deep Learning & AI** 
-- **Open Source** 
-- **Continuous Learning**
+- **Deep Learning** 
+- **Self-Supervised & Semi-Supervised Learning** 
+- **Reinforcement Learning**
 
 ### 🔍 Interests
 
