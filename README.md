@@ -4,12 +4,16 @@
 </div>
 
 <!-- Your profile picture and greeting -->
-<h1 align="center">Hey, I'm Fabiola! 👋</h1>
+<h1 align="center">I'm uwuxii! 👋</h1>
 <p align="center">
   <a href="https://github.com/uwuxii">
-    <img src="https://github-readme-stats.vercel.app/api?username=uwuxii&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://img.shields.io/github/followers/uwuxii?label=Followers&style=for-the-badge&color=C9184A" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/uwuxii?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/uwuxii&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=C9184A" alt="Public Repos" />
   </a>
 </p>
+
 
 ## 🛠️ Languages & Tools
 
@@ -36,21 +40,15 @@
 
 ## 🌸 About Me
 
-I'm an Industrial Engineering student, passionate about Data Science and Artificial Intelligence. I have experience in Machine Learning with a focus on Supervised Learning. My goal is to increase industry efficiency through AI-powered automation. 🤖
-
-### 🌟 Passions
-
-- **Machine Learning**
-- **Deep Learning** 
-- **Self-Supervised & Semi-Supervised Learning** 
-- **Reinforcement Learning**
+Data Scientist building ML and Deep Learning solutions for the insurance industry — from intelligent document/invoice automation to computer vision pipelines that go beyond a notebook and actually run in production. Obsessed with: cats 🐱 | robots 🤖 | making models actually work in production
 
 ### 🔍 Interests
 
-- **Data Science**
-- **Computer Vision**
-- **Cloud Computing (Azure and AWS)**
-- **Cybersecurity**
+- **AI Engineering** — production ML pipelines & MLOps
+- **Insurance ML / InsurTech** — document intelligence, claims & billing automation
+- **Computer Vision** — image classification
+- **Stochastic Modeling** — A/B testing
+- **Harness Engineering** — for reliable autonomous AI agents
 
 ## 🤝 Want to connect?
 
