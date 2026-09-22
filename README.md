@@ -40,7 +40,7 @@
 
 ## 🌸 About Me
 
-Data Scientist building ML and Deep Learning solutions for the insurance industry — from intelligent document/invoice automation to computer vision pipelines that go beyond a notebook and actually run in production. Obsessed with: cats 🐱 | robots 🤖 | making models actually work in production
+Data Scientist building ML and Deep Learning solutions for the financial services sector, from intelligent document/invoice automation to ML pipelines that go beyond a notebook and actually run in production. Obsessed with: cats 🐱 | robots 🤖 | making models actually useful
 
 ### 🔍 Interests
 
